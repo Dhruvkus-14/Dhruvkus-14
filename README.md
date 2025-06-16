@@ -16,22 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/dhruv-kushwaha-90b068251/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="csharath-chandra"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.instagram.com/dhruv_kushwaha14?igsh=aG1hYWluZjFybXBm" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="sharath.345"
-      height="30"
-      width="40"
-  /></a>
+  
 
   
 </p>
