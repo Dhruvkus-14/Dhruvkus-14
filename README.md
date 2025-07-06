@@ -14,23 +14,6 @@
 />
 📫 Contact *dhruvkushwaha4353@gmail.com* 
 
-
-  
-
-  
 </p>
 
-###
 
-<h3 align="left">🛠 Languages and Tools</h3>
-
-
-
-
-
-
-###
-
-![snake gif](https://github.com/Sharathchandra345/Sharathchandra345/blob/output/github-contribution-grid-snake-dark.svg)
-
-###
